@@ -1,0 +1,1 @@
+# TI0097-IntroducaoAoReconhecimentoDePadroes-2023.1
